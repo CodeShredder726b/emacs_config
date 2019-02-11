@@ -6,8 +6,8 @@
 (package-initialize)
 
 ;; path variables
-(setq gnu-global-bin "D:/Applications/GNUGlobal/bin")
-(setq grep-bin "D:/Applications/ernie")
+(setq gnu-global-bin "C:/Users/tckummer/Documents/Apps/GNUGlobal/bin")
+(setq grep-bin "C:/Users/tckummer/Documents/Apps/ernie")
 (setenv "PATH"
     (concat gnu-global-bin ";" grep-bin ";")
 )

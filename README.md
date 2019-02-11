@@ -18,4 +18,12 @@ moved spacemacs config to pure emacs
 - helm
 - helm-gtags
 - helm-sql-connect
-- 
+- helm-fuzzy-find
+- helm-projectile
+- projectile
+- fuzzy
+- golden-ratio
+- company
+- clean-aindent-mode
+- dashboard
+- page-break-lines
